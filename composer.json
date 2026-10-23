@@ -1,0 +1,27 @@
+{
+  "name": "sunasty/color-math",
+  "description": "Zero-dependency sRGB, OKLCH, and WCAG 2.1 contrast calculation in PHP",
+  "keywords": ["color", "oklch", "wcag", "contrast", "palette", "sunasty", "accessibility"],
+  "homepage": "https://sunasty.com/color-picker/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bastien Sulyan",
+      "email": "bastien.sulyan@gmail.com",
+      "homepage": "https://ulysan.fr"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sunasty\\ColorMath\\": "src/"
+    }
+  },
+  "support": {
+    "homepage": "https://sunasty.com/color-picker/",
+    "docs": "https://sunasty.com/dev/",
+    "source": "https://github.com/bsulyan/sunasty-color-math-php"
+  }
+}

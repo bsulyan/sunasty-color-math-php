@@ -1,0 +1,32 @@
+{
+  "title": "sunasty-color-math-php: sRGB, OKLCH, and WCAG 2.1 Contrast Calculation in PHP",
+  "description": "Zero-dependency PHP 8.1+ library for sRGB hex parsing, IEC 61966-2-1 gamma linearization, relative luminance, and WCAG 2.1 contrast calculation. Developed for the Sunasty web tools platform.",
+  "creators": [
+    {
+      "name": "Sulyan, Bastien",
+      "affiliation": "Sunasty"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "color space",
+    "oklch",
+    "wcag",
+    "accessibility",
+    "php"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sunasty.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bsulyan/sunasty-color-math-php",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software"
+}
